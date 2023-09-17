@@ -1,0 +1,3 @@
+[submodule "job-descriptions"]
+	path = job-descriptions
+	url = https://github.com/Idk507/Resume_job_matching.git
